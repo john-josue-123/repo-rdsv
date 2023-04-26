@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  accesschart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T21:21:22.491198+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a415396b18f147ad36a3397f7501c0b3418708854af2bf817097b45630a76b1
+    name: accesschart
+    type: application
+    urls:
+    - https://github.com/john-josue-123/repo-rdsv.git/accesschart-0.1.0.tgz
+    version: 0.1.0
+  cpechart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T21:21:22.491728+02:00"
+    description: A Helm chart for Kubernetes
+    digest: ef500bd77132fb08b79b9b25e99804e7835980f7ce8a760e6c78adc9695b9069
+    name: cpechart
+    type: application
+    urls:
+    - https://github.com/john-josue-123/repo-rdsv.git/cpechart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-26T21:21:22.489262+02:00"
